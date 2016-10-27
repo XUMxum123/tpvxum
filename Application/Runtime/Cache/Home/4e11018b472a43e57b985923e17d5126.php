@@ -1,0 +1,1 @@
+<?php if (!defined('THINK_PATH')) exit();?><div style="height:50px;background-color:#FF0;">足球模板</div>

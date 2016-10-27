@@ -1,0 +1,107 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Home</title>
+
+<link rel="stylesheet" type="text/css" href="__PUBLIC__/Home/css/style.css">
+<script type="text/javascript" src="__PUBLIC__/Home/js/home.js"></script>
+
+<import type="css" file="Home.css.style"/>
+<import type="js" file="Home.js.home"/>
+
+<load href="__PUBLIC__/Home/css/style.css"/>
+<load href="__PUBLIC__/Home/js/home.js"/>
+
+<css href="__PUBLIC__/Home/css/style.css"/>
+<js href="__PUBLIC__/Home/js/home.js"/>
+
+</head>
+
+<body>
+<!--
+<div>看看{$name}</div>
+<div>
+<table>
+<volist name="contents" id="vo1">
+<tr>
+<volist name="vo1" id="vo2">
+<td>{$vo2}</td>
+</volist>
+</tr>
+</volist>
+</table>
+</div>
+<div>----------------------</div>
+<div>
+<table>
+<foreach name="contents" item="vo1">
+<tr>
+<foreach name="vo1" item="vo2">
+<td>{$vo2}</td>
+</foreach>
+</tr>
+</foreach>
+</table>
+</div>
+<div>--------------------</div>
+<table>
+<volist name="content" id="vo">
+<tr><td>{$vo[DB_SERIES_MODE]}</td></tr>
+</volist>
+</table>
+<for start="1" end="10" step="3" name="index">
+{$index}
+</for>
+<div>
+<compare type="eq" name="num" value="$numnum">
+<img src="__PUBLIC__/Home/images/1.jpg" class="img1">相等
+<else/>
+<img src="__PUBLIC__/Home/images/1.jpg" class="img2">不相等
+</compare>
+</div>
+<div>
+<range name="num" value="1,3,6" type="in">
+<img src="__PUBLIC__/Home/images/1.jpg" class="img1">存在
+<else/>
+<img src="__PUBLIC__/Home/images/1.jpg" class="img2">不存在
+</range>
+</div>
+<div>
+<if condition="$num eq $numnum">
+<img src="__PUBLIC__/Home/images/1.jpg" class="img1">相等
+<else/>
+<img src="__PUBLIC__/Home/images/1.jpg" class="img2">不相等
+</if>
+</div>
+<input type="button" value="点击我" id="show" onclick="show()"/>
+<assign name="var" value="我是赋值得到的" />
+<assign name="var1" value="$num" />
+<div>{$var}&nbsp;&nbsp;{$var1}</div>
+<empty name="isempty">
+值为空
+<else/>
+值不为空
+</empty>
+<php>
+$con = "thinkphp";{// 这是个数据}
+$arr = array(123,xsg,y76,xuy);
+var_dump($arr);
+echo "<div class=\"think\">".$con."</div>";
+</php>
+-->
+<div>{$count}</div>
+<div></div>
+<table border="1px">
+<caption>一共查询到&nbsp;{$cou}&nbsp;条数据</caption>
+<volist name="content" id="vo">
+<tr>
+<td>{$key}</td>
+<td>{$vo[DB_SERIES_MODE]}</td>
+<td>{$vo[DB_SERIES_STATE]}</td>
+<td>{$vo[DB_SERIES_STARTTIME]}</td>
+</tr>
+</volist>
+</table>
+</body>
+</html>

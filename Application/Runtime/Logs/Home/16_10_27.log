@@ -1,0 +1,229 @@
+[ 2016-10-27T10:09:58+08:00 ] 172.20.28.17 /RemoteToLocalProject/tpvxum/index.php/Home/Index/wechatsdk
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000677s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.012503s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.012584s ]
+NOTIC: [8] Undefined index: timestamp /mnt/devsdb/ftphome/weixin/weixin/RemoteToLocalProject/tpvxum/ThinkPHP/Library/Com/Wechat.class.php 第 299 行.
+NOTIC: [8] Undefined index: nonce /mnt/devsdb/ftphome/weixin/weixin/RemoteToLocalProject/tpvxum/ThinkPHP/Library/Com/Wechat.class.php 第 299 行.
+NOTIC: [8] Undefined index: signature /mnt/devsdb/ftphome/weixin/weixin/RemoteToLocalProject/tpvxum/ThinkPHP/Library/Com/Wechat.class.php 第 300 行.
+
+[ 2016-10-27T10:15:52+08:00 ] 172.20.28.7 /RemoteToLocalProject/tpvxum/index.php/Home/Index/wechatsdk
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000396s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000501s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000588s ]
+NOTIC: [8] Undefined index: timestamp /mnt/devsdb/ftphome/weixin/weixin/RemoteToLocalProject/tpvxum/ThinkPHP/Library/Com/Wechat.class.php 第 299 行.
+NOTIC: [8] Undefined index: nonce /mnt/devsdb/ftphome/weixin/weixin/RemoteToLocalProject/tpvxum/ThinkPHP/Library/Com/Wechat.class.php 第 299 行.
+NOTIC: [8] Undefined index: signature /mnt/devsdb/ftphome/weixin/weixin/RemoteToLocalProject/tpvxum/ThinkPHP/Library/Com/Wechat.class.php 第 300 行.
+
+[ 2016-10-27T10:19:10+08:00 ] 4.15.162.182 /RemoteToLocalProject/tpvxum/index.php/Home/Index/wechatsdk
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000372s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000450s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000527s ]
+NOTIC: [8] Undefined index: timestamp /mnt/devsdb/ftphome/weixin/weixin/RemoteToLocalProject/tpvxum/ThinkPHP/Library/Com/Wechat.class.php 第 299 行.
+NOTIC: [8] Undefined index: nonce /mnt/devsdb/ftphome/weixin/weixin/RemoteToLocalProject/tpvxum/ThinkPHP/Library/Com/Wechat.class.php 第 299 行.
+NOTIC: [8] Undefined index: signature /mnt/devsdb/ftphome/weixin/weixin/RemoteToLocalProject/tpvxum/ThinkPHP/Library/Com/Wechat.class.php 第 300 行.
+
+[ 2016-10-27T10:20:00+08:00 ] 101.226.103.70 /RemoteToLocalProject/tpvxum/index.php/Home/Index/wechatsdk?signature=addb097c323cda7c413146ff6c2d7d83545d70e2&echostr=2478166608325869310&timestamp=1477536426&nonce=1234146084
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000396s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000496s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000583s ]
+
+[ 2016-10-27T10:23:11+08:00 ] 101.226.66.192 /RemoteToLocalProject/tpvxum/index.php/Home/Index/wechatsdk
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000393s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000497s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000584s ]
+NOTIC: [8] Undefined index: timestamp /mnt/devsdb/ftphome/weixin/weixin/RemoteToLocalProject/tpvxum/ThinkPHP/Library/Com/Wechat.class.php 第 299 行.
+NOTIC: [8] Undefined index: nonce /mnt/devsdb/ftphome/weixin/weixin/RemoteToLocalProject/tpvxum/ThinkPHP/Library/Com/Wechat.class.php 第 299 行.
+NOTIC: [8] Undefined index: signature /mnt/devsdb/ftphome/weixin/weixin/RemoteToLocalProject/tpvxum/ThinkPHP/Library/Com/Wechat.class.php 第 300 行.
+
+[ 2016-10-27T10:28:07+08:00 ] 101.226.233.152 /RemoteToLocalProject/tpvxum/index.php/Home/Index/wechatsdk?signature=93c47194b0fc8ba2247ed123144b81be96dc4fbb&echostr=3483932538424131518&timestamp=1477536912&nonce=1040378690
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000358s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000445s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000523s ]
+
+[ 2016-10-27T10:28:08+08:00 ] 101.226.62.78 /RemoteToLocalProject/tpvxum/index.php/Home/Index/wechatsdk?signature=e5766e2608cd693fb33ac130987d02948942d53c&echostr=3431107529245982463&timestamp=1477536907&nonce=1164363032
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000365s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000451s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000527s ]
+
+[ 2016-10-27T10:28:15+08:00 ] 101.226.62.78 /RemoteToLocalProject/tpvxum/index.php/Home/Index/wechatsdk?signature=bbde0d6cfbfac3ae4c23402904be1020381076a0&echostr=3176745486609640607&timestamp=1477536921&nonce=2038340981
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000365s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000451s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000528s ]
+
+[ 2016-10-27T10:31:52+08:00 ] 101.226.233.147 /RemoteToLocalProject/tpvxum/index.php/Home/Index/wechatsdk?signature=4f135bcdca80cfafb8e5beb80645df7becc8a23f&timestamp=1477537137&nonce=418982473&openid=osJyIw_xBqzr2qkARm-g6MJF0lXo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000367s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000439s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000519s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.011033s ]
+INFO: [ app_end ] --END-- [ RunTime:0.011119s ]
+
+[ 2016-10-27T10:32:00+08:00 ] 101.226.233.142 /RemoteToLocalProject/tpvxum/index.php/Home/Index/wechatsdk?signature=22aedbbdc1fa9d814f984b8602114e981b46c9bf&timestamp=1477537146&nonce=2055591421&openid=osJyIw_xBqzr2qkARm-g6MJF0lXo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000358s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000439s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000517s ]
+NOTIC: [8] Use of undefined constant self - assumed 'self' /mnt/devsdb/ftphome/weixin/weixin/RemoteToLocalProject/tpvxum/ThinkPHP/Library/Com/Wechat.class.php 第 156 行.
+
+[ 2016-10-27T10:57:18+08:00 ] 101.226.233.157 /RemoteToLocalProject/tpvxum/index.php/Home/Index/wechatsdk?signature=62dafb77d8db735d295573e0639e6d6e0c63bb4b&timestamp=1477538664&nonce=1396205195&openid=osJyIw_xBqzr2qkARm-g6MJF0lXo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000359s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000436s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000516s ]
+NOTIC: [2] file_put_contents(http://xmsvn.tpvaoc.com/RemoteToLocalProject/tpvxum/Uploads/Home/data.json): failed to open stream: HTTP wrapper does not support writeable connections /mnt/devsdb/ftphome/weixin/weixin/RemoteToLocalProject/tpvxum/Application/Home/Controller/IndexController.class.php 第 62 行.
+NOTIC: [8] Use of undefined constant self - assumed 'self' /mnt/devsdb/ftphome/weixin/weixin/RemoteToLocalProject/tpvxum/ThinkPHP/Library/Com/Wechat.class.php 第 156 行.
+
+[ 2016-10-27T10:57:34+08:00 ] 101.226.233.157 /RemoteToLocalProject/tpvxum/index.php/Home/Index/wechatsdk?signature=dbf99006b274532b162032db58c10e19e4181555&timestamp=1477538680&nonce=1621243910&openid=osJyIw_xBqzr2qkARm-g6MJF0lXo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000366s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000450s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000530s ]
+NOTIC: [2] file_put_contents(http://xmsvn.tpvaoc.com/RemoteToLocalProject/tpvxum/Uploads/Home/data.json): failed to open stream: HTTP wrapper does not support writeable connections /mnt/devsdb/ftphome/weixin/weixin/RemoteToLocalProject/tpvxum/Application/Home/Controller/IndexController.class.php 第 62 行.
+NOTIC: [8] Use of undefined constant self - assumed 'self' /mnt/devsdb/ftphome/weixin/weixin/RemoteToLocalProject/tpvxum/ThinkPHP/Library/Com/Wechat.class.php 第 156 行.
+
+[ 2016-10-27T10:58:22+08:00 ] 101.226.233.157 /RemoteToLocalProject/tpvxum/index.php/Home/Index/wechatsdk?signature=d3940698f18d07b6736e1e1da675eee93767b5a5&timestamp=1477538728&nonce=369603562&openid=osJyIw_xBqzr2qkARm-g6MJF0lXo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000360s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000439s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000519s ]
+NOTIC: [2] file_put_contents(http://xmsvn.tpvaoc.com/RemoteToLocalProject/tpvxum/Uploads/Home/data.json): failed to open stream: HTTP wrapper does not support writeable connections /mnt/devsdb/ftphome/weixin/weixin/RemoteToLocalProject/tpvxum/Application/Home/Controller/IndexController.class.php 第 62 行.
+NOTIC: [8] Use of undefined constant self - assumed 'self' /mnt/devsdb/ftphome/weixin/weixin/RemoteToLocalProject/tpvxum/ThinkPHP/Library/Com/Wechat.class.php 第 156 行.
+
+[ 2016-10-27T10:58:39+08:00 ] 101.226.233.142 /RemoteToLocalProject/tpvxum/index.php/Home/Index/wechatsdk?signature=a86b24b916133445ee0f248f680d8c351d9f45d6&timestamp=1477538745&nonce=402611063&openid=osJyIw_xBqzr2qkARm-g6MJF0lXo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000358s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000508s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000587s ]
+NOTIC: [2] file_put_contents(http://xmsvn.tpvaoc.com/RemoteToLocalProject/tpvxum/Uploads/Home/data.json): failed to open stream: HTTP wrapper does not support writeable connections /mnt/devsdb/ftphome/weixin/weixin/RemoteToLocalProject/tpvxum/Application/Home/Controller/IndexController.class.php 第 62 行.
+NOTIC: [8] Use of undefined constant self - assumed 'self' /mnt/devsdb/ftphome/weixin/weixin/RemoteToLocalProject/tpvxum/ThinkPHP/Library/Com/Wechat.class.php 第 156 行.
+
+[ 2016-10-27T10:58:59+08:00 ] 101.226.233.157 /RemoteToLocalProject/tpvxum/index.php/Home/Index/wechatsdk?signature=e85c12bee8b76c251ae1fb8f8114f44017055799&timestamp=1477538765&nonce=2067248219&openid=osJyIw_xBqzr2qkARm-g6MJF0lXo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000387s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000492s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000581s ]
+NOTIC: [2] file_put_contents(http://xmsvn.tpvaoc.com/RemoteToLocalProject/tpvxum/Uploads/Home/data.json): failed to open stream: HTTP wrapper does not support writeable connections /mnt/devsdb/ftphome/weixin/weixin/RemoteToLocalProject/tpvxum/Application/Home/Controller/IndexController.class.php 第 62 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000534s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000615s ]
+
+[ 2016-10-27T10:59:11+08:00 ] 101.226.233.142 /RemoteToLocalProject/tpvxum/index.php/Home/Index/wechatsdk?signature=8e3a60ef9bc6e80e08af4919b0a85752684743ef&timestamp=1477538777&nonce=1944315014&openid=osJyIw_xBqzr2qkARm-g6MJF0lXo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000366s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000438s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000517s ]
+NOTIC: [2] file_put_contents(http://xmsvn.tpvaoc.com/RemoteToLocalProject/tpvxum/Uploads/Home/data.json): failed to open stream: HTTP wrapper does not support writeable connections /mnt/devsdb/ftphome/weixin/weixin/RemoteToLocalProject/tpvxum/Application/Home/Controller/IndexController.class.php 第 62 行.
+NOTIC: [8] Use of undefined constant self - assumed 'self' /mnt/devsdb/ftphome/weixin/weixin/RemoteToLocalProject/tpvxum/ThinkPHP/Library/Com/Wechat.class.php 第 156 行.
+
+[ 2016-10-27T10:59:15+08:00 ] 101.226.233.148 /RemoteToLocalProject/tpvxum/index.php/Home/Index/wechatsdk?signature=d8ab4f9f680125a3b8604767d72d1e375bf64198&timestamp=1477538781&nonce=183535259&openid=osJyIw_xBqzr2qkARm-g6MJF0lXo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000356s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000443s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000522s ]
+NOTIC: [2] file_put_contents(http://xmsvn.tpvaoc.com/RemoteToLocalProject/tpvxum/Uploads/Home/data.json): failed to open stream: HTTP wrapper does not support writeable connections /mnt/devsdb/ftphome/weixin/weixin/RemoteToLocalProject/tpvxum/Application/Home/Controller/IndexController.class.php 第 62 行.
+NOTIC: [8] Use of undefined constant self - assumed 'self' /mnt/devsdb/ftphome/weixin/weixin/RemoteToLocalProject/tpvxum/ThinkPHP/Library/Com/Wechat.class.php 第 156 行.
+
+[ 2016-10-27T10:59:20+08:00 ] 101.226.233.157 /RemoteToLocalProject/tpvxum/index.php/Home/Index/wechatsdk?signature=ec0a70e54bb038f0432d719dac2a46af2ae1d849&timestamp=1477538786&nonce=914272077&openid=osJyIw_xBqzr2qkARm-g6MJF0lXo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000520s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000435s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000514s ]
+NOTIC: [2] file_put_contents(http://xmsvn.tpvaoc.com/RemoteToLocalProject/tpvxum/Uploads/Home/data.json): failed to open stream: HTTP wrapper does not support writeable connections /mnt/devsdb/ftphome/weixin/weixin/RemoteToLocalProject/tpvxum/Application/Home/Controller/IndexController.class.php 第 62 行.
+NOTIC: [8] Use of undefined constant self - assumed 'self' /mnt/devsdb/ftphome/weixin/weixin/RemoteToLocalProject/tpvxum/ThinkPHP/Library/Com/Wechat.class.php 第 156 行.
+
+[ 2016-10-27T10:59:22+08:00 ] 101.226.233.147 /RemoteToLocalProject/tpvxum/index.php/Home/Index/wechatsdk?signature=f8e6e14c8297adf9c710c55509f97e31a1dfbbe0&timestamp=1477538788&nonce=2046761713&openid=osJyIw_xBqzr2qkARm-g6MJF0lXo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000387s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000485s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000573s ]
+NOTIC: [2] file_put_contents(http://xmsvn.tpvaoc.com/RemoteToLocalProject/tpvxum/Uploads/Home/data.json): failed to open stream: HTTP wrapper does not support writeable connections /mnt/devsdb/ftphome/weixin/weixin/RemoteToLocalProject/tpvxum/Application/Home/Controller/IndexController.class.php 第 62 行.
+NOTIC: [8] Use of undefined constant self - assumed 'self' /mnt/devsdb/ftphome/weixin/weixin/RemoteToLocalProject/tpvxum/ThinkPHP/Library/Com/Wechat.class.php 第 156 行.
+
+[ 2016-10-27T11:00:27+08:00 ] 101.226.233.152 /RemoteToLocalProject/tpvxum/index.php/Home/Index/wechatsdk?signature=83f3d6ad7d63e20428b8a813234c25f51bbd8a96&timestamp=1477538853&nonce=1779469158&openid=osJyIw_xBqzr2qkARm-g6MJF0lXo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000353s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000435s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000513s ]
+NOTIC: [2] file_put_contents(http://xmsvn.tpvaoc.com/RemoteToLocalProject/tpvxum/Uploads/Home/data.json): failed to open stream: HTTP wrapper does not support writeable connections /mnt/devsdb/ftphome/weixin/weixin/RemoteToLocalProject/tpvxum/Application/Home/Controller/IndexController.class.php 第 62 行.
+NOTIC: [8] Use of undefined constant self - assumed 'self' /mnt/devsdb/ftphome/weixin/weixin/RemoteToLocalProject/tpvxum/ThinkPHP/Library/Com/Wechat.class.php 第 156 行.
+
+[ 2016-10-27T11:07:42+08:00 ] 101.226.233.142 /RemoteToLocalProject/tpvxum/index.php/Home/Index/wechatsdk?signature=f5282831616cc8cd8956a5e0abc447a5e6b48d7a&timestamp=1477539288&nonce=1937102852&openid=osJyIw_xBqzr2qkARm-g6MJF0lXo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000357s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000437s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000515s ]
+NOTIC: [2] file_put_contents(http://xmsvn.tpvaoc.com/RemoteToLocalProject/tpvxum/Uploads/Home/data.json): failed to open stream: HTTP wrapper does not support writeable connections /mnt/devsdb/ftphome/weixin/weixin/RemoteToLocalProject/tpvxum/Application/Home/Controller/IndexController.class.php 第 62 行.
+NOTIC: [8] Use of undefined constant self - assumed 'self' /mnt/devsdb/ftphome/weixin/weixin/RemoteToLocalProject/tpvxum/ThinkPHP/Library/Com/Wechat.class.php 第 156 行.
+
+[ 2016-10-27T11:07:54+08:00 ] 101.226.233.157 /RemoteToLocalProject/tpvxum/index.php/Home/Index/wechatsdk?signature=a6f013fee48f740b4eb6825daad3ace140544d13&timestamp=1477539301&nonce=27467907&openid=osJyIw_xBqzr2qkARm-g6MJF0lXo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000358s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000439s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000518s ]
+NOTIC: [2] file_put_contents(http://xmsvn.tpvaoc.com/RemoteToLocalProject/tpvxum/Uploads/Home/data.json): failed to open stream: HTTP wrapper does not support writeable connections /mnt/devsdb/ftphome/weixin/weixin/RemoteToLocalProject/tpvxum/Application/Home/Controller/IndexController.class.php 第 62 行.
+NOTIC: [2] Missing argument 4 for Com\Wechat::replyNews(), called in /mnt/devsdb/ftphome/weixin/weixin/RemoteToLocalProject/tpvxum/Application/Home/Controller/IndexController.class.php on line 182 and defined /mnt/devsdb/ftphome/weixin/weixin/RemoteToLocalProject/tpvxum/ThinkPHP/Library/Com/Wechat.class.php 第 228 行.
+NOTIC: [8] Use of undefined constant self - assumed 'self' /mnt/devsdb/ftphome/weixin/weixin/RemoteToLocalProject/tpvxum/ThinkPHP/Library/Com/Wechat.class.php 第 156 行.
+
+[ 2016-10-27T11:08:15+08:00 ] 101.226.233.147 /RemoteToLocalProject/tpvxum/index.php/Home/Index/wechatsdk?signature=8c0f68b2de862256d0ae94b9333bbe0cfacba53c&timestamp=1477539321&nonce=1454936801&openid=osJyIw_xBqzr2qkARm-g6MJF0lXo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000360s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000449s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000528s ]
+NOTIC: [2] file_put_contents(http://xmsvn.tpvaoc.com/RemoteToLocalProject/tpvxum/Uploads/Home/data.json): failed to open stream: HTTP wrapper does not support writeable connections /mnt/devsdb/ftphome/weixin/weixin/RemoteToLocalProject/tpvxum/Application/Home/Controller/IndexController.class.php 第 62 行.
+NOTIC: [8] Use of undefined constant self - assumed 'self' /mnt/devsdb/ftphome/weixin/weixin/RemoteToLocalProject/tpvxum/ThinkPHP/Library/Com/Wechat.class.php 第 156 行.
+

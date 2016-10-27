@@ -1,0 +1,53 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>分页数据</title>
+<import type="css" file="Home.css.style"/>
+</head>
+
+<body>
+<div>分页数据{$NowRow}&nbsp;&nbsp;{$listRows}&nbsp;&nbsp;{$pagenow}</div>
+<assign name="i" value="0"/>
+
+<div>
+<div>{$aa}</div>
+<div>{$bb}</div>
+</div>
+
+<div>
+<table border="1px">
+<volist name="content" id="vo1">
+<tr>
+<volist name="vo1" id="vo2">
+<td>{$vo2}</td>
+</volist>
+</tr>
+</volist>
+</table>
+</div>
+
+<table border="1px">
+<tr>
+<th>序列</th>
+<th>赛事名</th>
+<th>组织模式</th>
+<th>准备状态</th>
+</tr>
+<volist name="list" id="vo">
+<tr align="center">
+<td>第{$key+1+$NowRow}条</td>
+<td>
+<a href="{:U('Test/Matches/get_series_matches',array('Id'=>$vo[DB_SERIES_ID]))}">
+{$vo[DB_SERIES_NAME]}
+</a>
+</td>
+<td>{$vo[DB_SERIES_MODE]}</td>
+<td>{$vo[DB_SERIES_STATE]}</td>
+</tr>
+</volist>
+<tr><td colspan="4" align="center">{$page}</td></td>
+</table>
+<div></div>
+</body>
+</html>

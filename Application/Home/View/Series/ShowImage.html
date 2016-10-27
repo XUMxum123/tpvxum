@@ -1,0 +1,43 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>图片处理</title>
+<link rel="stylesheet" type="text/css" href="__PUBLIC__/Home/css/style.css" />
+<script type="text/javascript">
+ var url = "{:U('Series/ShowPage')}";
+</script>
+<script type="text/javascript" src="__PUBLIC__/Home/js/jquery-1.6.1.min.js"></script>
+<script type="text/javascript" src="__PUBLIC__/Home/js/home.js"></script>
+</head>
+
+<body>
+{$test}
+{$string}
+<assign name="c" value="false"/>
+<if condition="!$a AND $b">
+都正确
+<else/>
+至少一个错误
+</if>
+<if condition="$region eq 马翔">
+111111111111
+</if>
+<select>
+<option value="111">111</option>
+<option value="222" >222</option>
+<option value="333" <if condition="$region eq 马翔">selected="selected"</if>>333</option>
+<option value="444"  <if condition="$region eq 马翔">selected="selected"</if>>444</option>
+</select>
+<php>
+if($c && $b){
+echo "正确";
+}
+</php>
+<div></div><br><br><br>
+<a href="{:U('Series/ShowPage')}">跳转分页</a>
+<div></div><br><br><br>
+<input value="跳转" type="button" id="but" onclick="goto()"><br>
+</body>
+
+</html>

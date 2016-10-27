@@ -1,0 +1,92 @@
+[ 2015-02-25T15:11:12+08:00 ] ::1 /Thinkphp/index.php/Home/Series/ShowSeries
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.015001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\weixinweixin\wamp\www\Thinkphp\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `series` [ RunTime:0.006000s ]
+SQL: INSERT INTO `series` (`Id`,`Venue`,`Name`) VALUES ('1234567890','团体个人加油','我添加的') [ RunTime:0.001001s ]
+ERR: 1062:Duplicate entry '1234567890' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `series` (`Id`,`Venue`,`Name`) VALUES ('1234567890','团体个人加油','我添加的')
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.038002s ]
+INFO: [ app_end ] --END-- [ RunTime:0.039002s ]
+
+[ 2015-02-25T15:12:39+08:00 ] ::1 /Thinkphp/index.php/Home/Series/ShowSeries
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\weixinweixin\wamp\www\Thinkphp\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `series` [ RunTime:0.006001s ]
+SQL: INSERT INTO `series` (`Id`,`Venue`,`Name`) VALUES ('1234567890','团体个人加油','1234567890') [ RunTime:0.098005s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003001s ]
+
+[ 2015-02-25T15:12:40+08:00 ] ::1 /Thinkphp/index.php/Home/Series/ShowSeries
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\weixinweixin\wamp\www\Thinkphp\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `series` [ RunTime:0.006000s ]
+SQL: INSERT INTO `series` (`Id`,`Venue`,`Name`) VALUES ('1234567890','团体个人加油','1234567890') [ RunTime:0.000000s ]
+ERR: 1062:Duplicate entry '1234567890' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `series` (`Id`,`Venue`,`Name`) VALUES ('1234567890','团体个人加油','1234567890')
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-02-25T15:13:27+08:00 ] ::1 /Thinkphp/index.php/Home/Series/ShowSeries
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\weixinweixin\wamp\www\Thinkphp\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `series` [ RunTime:0.005000s ]
+SQL: INSERT INTO `series` (`Id`,`Venue`,`Name`) VALUES ('1234567890','团体个人加油','1234567890123456789') [ RunTime:0.000000s ]
+ERR: 1062:Duplicate entry '1234567890' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `series` (`Id`,`Venue`,`Name`) VALUES ('1234567890','团体个人加油','1234567890123456789')
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003000s ]
+
+[ 2015-02-25T15:13:28+08:00 ] ::1 /Thinkphp/index.php/Home/Series/ShowSeries
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\weixinweixin\wamp\www\Thinkphp\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `series` [ RunTime:0.006001s ]
+SQL: INSERT INTO `series` (`Id`,`Venue`,`Name`) VALUES ('1234567890','团体个人加油','1234567890123456789') [ RunTime:0.001000s ]
+ERR: 1062:Duplicate entry '1234567890' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `series` (`Id`,`Venue`,`Name`) VALUES ('1234567890','团体个人加油','1234567890123456789')
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2015-02-25T15:13:57+08:00 ] ::1 /Thinkphp/index.php/Home/Series/ShowSeries
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\weixinweixin\wamp\www\Thinkphp\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `series` [ RunTime:0.005001s ]
+SQL: INSERT INTO `series` (`Id`,`Venue`,`Name`) VALUES ('1234567890','团体个人加油','1234567890123456789') [ RunTime:0.089005s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
